@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "756860303149",
+    "project_id": "datasetgeneration-12780",
+    "storage_bucket": "datasetgeneration-12780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756860303149:ios:8b05c8c9fdf9e739d205a4",
+        "android_client_info": {
+          "package_name": "com.datageneration.raycastTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756860303149-mjfmhnmv7s96mc4i456la56492152hpb.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_CTD2u5p7jq5ntY0Ja3qqklAV2VJVH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
